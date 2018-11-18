@@ -1,7 +1,7 @@
 version: '3'
 services:
   juice-shop:
-    image: bkimminich/juice-shop
+    image: vsemenok/juiceshop
     ports:
       - 3000:3000
     networks:
